@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+}
+#inicio,#pie{
+    text-align: center;
+}
+.i_tierra{
+    border-radius: 300px;
+    border: 3px green solid;
+    padding: 10px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 3px dashed darkblue;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 20px 50px;
+    font-size: 30px;
+    word-spacing: 10px;
+    text-align: justify; /* soy un comentario */
+    text-shadow: 3px 3px 3px gray;
+}
